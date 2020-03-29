@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-29T17:40:36 IST" name="Default suite" finished-at="2020-03-29T17:42:05 IST" duration-ms="89105">
+    <groups>
+    </groups>
+    <test started-at="2020-03-29T17:40:36 IST" name="Default test" finished-at="2020-03-29T17:42:05 IST" duration-ms="89105">
+      <class name="TestNgClasses.ChromeTestNg">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNgClasses.ChromeTestNg@3d121db3]" started-at="2020-03-29T17:40:36 IST" name="beforeMethod" finished-at="2020-03-29T17:40:37 IST" duration-ms="695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:TestNgClasses.ChromeTestNg@3d121db3]" started-at="2020-03-29T17:40:37 IST" name="BrowserLaunch" finished-at="2020-03-29T17:40:49 IST" duration-ms="12269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method signature="Test1()[pri:0, instance:TestNgClasses.ChromeTestNg@3d121db3]" started-at="2020-03-29T17:40:49 IST" name="Test1" finished-at="2020-03-29T17:41:01 IST" duration-ms="11397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:TestNgClasses.ChromeTestNg@3d121db3]" started-at="2020-03-29T17:41:01 IST" name="BrowserLaunch" finished-at="2020-03-29T17:41:12 IST" duration-ms="11280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method signature="Test2()[pri:1, instance:TestNgClasses.ChromeTestNg@3d121db3]" started-at="2020-03-29T17:41:12 IST" name="Test2" finished-at="2020-03-29T17:41:14 IST" duration-ms="1768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:TestNgClasses.ChromeTestNg@3d121db3]" started-at="2020-03-29T17:41:14 IST" name="BrowserLaunch" finished-at="2020-03-29T17:41:25 IST" duration-ms="11298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method signature="Test3()[pri:2, instance:TestNgClasses.ChromeTestNg@3d121db3]" started-at="2020-03-29T17:41:25 IST" name="Test3" finished-at="2020-03-29T17:41:31 IST" duration-ms="6523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:TestNgClasses.ChromeTestNg@3d121db3]" started-at="2020-03-29T17:41:31 IST" name="BrowserLaunch" finished-at="2020-03-29T17:41:43 IST" duration-ms="11406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method signature="Test4()[pri:3, instance:TestNgClasses.ChromeTestNg@3d121db3]" started-at="2020-03-29T17:41:43 IST" name="Test4" finished-at="2020-03-29T17:42:05 IST" duration-ms="22416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+      </class> <!-- TestNgClasses.ChromeTestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
